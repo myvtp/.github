@@ -9,6 +9,7 @@ Built for vibe coders. The people making cool stuff with Claude Code, Cursor and
 ### What's here
 
 🧩 **[mcp](https://github.com/MyVTP/mcp)** — MCP server that lets AI coding agents deploy straight to VTP
+
 📄 **[rfc](https://github.com/MyVTP/rfc)** — RFC 9999: the Vibe Transfer Protocol spec (yes, we wrote an RFC)
 
 ### Links
