@@ -15,3 +15,13 @@ Built for vibe coders. The people making cool stuff with Claude Code, Cursor and
 ### Links
 
 🌊 [myvtp.app](https://www.myvtp.app) · 𝕏 [@hellovtp](https://x.com/hellovtp)
+
+### Status
+
+#### Platform
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/2fa40.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
+#### Website
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/2fa38.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
